@@ -51,7 +51,7 @@ def PythagoreanTheorem(a, b):
 
     ax.axis('off')
 
-    plt.title("Visual Proof of Pythagorean Theorem")
+    plt.title("Pythagorean Theorem")
     plt.show()
 
 a = int(input("Enter a value for side A: "))
