@@ -1,3 +1,3 @@
 # PythagoreanTheoremProof
 
-One of the proof visualisations I made in my time teaching mathematics. 
+One of the proof visualizations I made in my time teaching mathematics.
